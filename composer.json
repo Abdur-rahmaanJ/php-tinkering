@@ -1,0 +1,10 @@
+{
+    "name": "com/arj",
+    "description": "init tests",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "alpha",
+    "require": {
+        "twig/twig": "~1.8"
+    }
+}
